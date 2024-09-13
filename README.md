@@ -3,6 +3,10 @@ This breakout board is designed to be a drop-in replacement for the Sparkfun BOB
 
 These thumbstick components are widely available on Ali Express as replacement thumbsticks for game controllers. Unlike a traditional potentiometer based joystick, these sticks only operate with a specific polarity, so ensure you select one meant specifically for the PS5 to match the design of this board.
 
+PCBWay order link:<br/>
+https://www.pcbway.com/project/shareproject/_PS5_Hall_Effect_Thumbstick_Breakout_Board_abc13f47.html<br/>
+(10 for $5 at time of writing. I get a small commission.)
+
 <p align="center"><img src="docs/photo-assembled.jpg" width="40%" /> <img src="docs/photo.jpg" width="40%" /></p>
 <p align="center"><img src="docs/schematic.png" width="40%" /> <img src="docs/board.png" width="40%" /></p>
 
