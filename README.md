@@ -6,6 +6,9 @@ These thumbstick components are widely available on Ali Express as replacement t
 <p align="center"><img src="docs/photo-assembled.jpg" width="40%" /> <img src="docs/photo.jpg" width="40%" /></p>
 <p align="center"><img src="docs/schematic.png" width="40%" /> <img src="docs/board.png" width="40%" /></p>
 
+## Datasheet
+I couldn't find a datasheet for these stick components, but the datasheet for [this alternative](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2608/THB001P%20drawing.pdf) stick seemed to have measurement information the exact same footprint, so it was used in the creation of this board.
+
 ## License
 Copyright (c) Daniel Benoy
 
