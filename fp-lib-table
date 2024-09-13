@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "thumbstick-breakout")(type "KiCad")(uri "${KIPRJMOD}/thumbstick-breakout.pretty")(options "")(descr ""))
+)
