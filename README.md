@@ -1,5 +1,5 @@
 # "PS5 Hall Effect" Compatible Thumbstick Breakout Board
-This breakout board is designed to be a drop-in replacement for the Sparkfun BOB-09110 but ussing cheap Ali Express hall effect thumbsticks instead of low quality "PS2 style" sticks.
+This breakout board is designed to be a drop-in replacement for the Sparkfun BOB-09110 but using cheap Ali Express hall effect thumbsticks instead of low quality "PS2 style" sticks.
 
 These thumbstick components are widely available on Ali Express as replacement thumbsticks for game controllers. Unlike a traditional potentiometer based joystick, these sticks only operate with a specific polarity, so ensure you select one meant specifically for the PS5 to match the design of this board.
 
